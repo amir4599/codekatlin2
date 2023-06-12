@@ -1,0 +1,10 @@
+//امیرحسین گوهرگزی
+
+        ++low
+    }
+}
+ 
+fun checkPrimeNumber(num: Int): Boolean {
+    var flag = true
+
+    for (i in 2..num / 2) s
